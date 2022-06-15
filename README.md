@@ -7,3 +7,4 @@ Exploring the FRDM-K66F development platform. The central hardware of the develo
 ## Projects
 
 [Getting Started](./projects/p01-getting-started/p01-readme.md)  
+[Blinky](./projects/p02-blinky/p02-readme.md)  
