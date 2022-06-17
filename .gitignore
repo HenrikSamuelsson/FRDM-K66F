@@ -36,3 +36,6 @@ documentation/pdfs/
 
 # Downloaded Software Development Kit
 sdk/
+
+# MCU Expresso Workspace
+workspace/
