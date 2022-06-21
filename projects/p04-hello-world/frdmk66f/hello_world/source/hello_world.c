@@ -36,7 +36,7 @@ int main(void)
     BOARD_InitBootClocks();
     BOARD_InitDebugConsole();
 
-    PRINTF("hello world.\r\n");
+    PRINTF("Hello world.\r\n");
 
     while (1)
     {
