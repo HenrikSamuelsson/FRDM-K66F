@@ -65,7 +65,7 @@ int main(void)
     while (1)
     {
         /* Delay 1000 milliseconds. */
-        SysTick_DelayTicks(1000U);
+        SysTick_DelayTicks(500U);
         GPIO_PortToggle(BOARD_LED_GPIO, 1u << BOARD_LED_GPIO_PIN);
     }
 }
